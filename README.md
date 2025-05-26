@@ -32,6 +32,8 @@ Bu repoda, Bilgisayar Ağları dersi kapsamında yapılan laboratuvar çalışma
 - **Uygulama:** UDP uygulamasının geliştirilmiş hali
 - **Teknoloji:** UDP, Java Soket, Maven
 
+## Terminal üzerinden de çalıştırılabilir. Lablar çalışmıyorda olabilir.
+
 ## Geliştirme Ortamı
 - Java 8+
 - Apache Maven
