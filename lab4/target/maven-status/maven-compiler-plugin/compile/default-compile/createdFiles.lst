@@ -1,0 +1,5 @@
+server\AppMain.class
+server\Message$Type.class
+server\SClient.class
+server\Server.class
+server\Message.class
